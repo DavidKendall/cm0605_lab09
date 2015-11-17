@@ -1024,6 +1024,9 @@
         <name>$PROJ_DIR$\..\..\bsp\include\leds.h</name>
       </file>
       <file>
+        <name>$PROJ_DIR$\..\..\bsp\include\median_filter.h</name>
+      </file>
+      <file>
         <name>$PROJ_DIR$\..\..\bsp\include\potentiometer.h</name>
       </file>
       <file>
@@ -1073,6 +1076,9 @@
       </file>
       <file>
         <name>$PROJ_DIR$\..\..\bsp\src\leds.c</name>
+      </file>
+      <file>
+        <name>$PROJ_DIR$\..\..\bsp\src\median_filter.c</name>
       </file>
       <file>
         <name>$PROJ_DIR$\..\..\bsp\src\potentiometer.c</name>
