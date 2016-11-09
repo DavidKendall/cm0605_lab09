@@ -1,5 +1,9 @@
-**/Flash
-**/settings
-**/*.ewt
+**/*.o
+**/*.swp
 **/*.dep
+**/*~
+**/*.ewt
+**/Flash/**
+**/settings/**
+
 
